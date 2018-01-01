@@ -2,7 +2,7 @@
 
 Variational Autoencoder implementation with Tensorflow.
 
-<img src="https://s10.postimg.org/76n9tlbvd/faces.png" width="800">
+<img src="https://s10.postimg.org/6nmry3rux/faces2.png" width="800">
 <img src="https://s10.postimg.org/sgaw4hhw9/net.png" width="300">
 <img src="https://s10.postimg.org/3n1c3swax/encoder1.png" width="400">
 <img src="https://s10.postimg.org/lpuev0zvd/encoder2.png" width="500">
