@@ -2,14 +2,13 @@
 
 Variational Autoencoder implementation with Tensorflow.
 
-<img src="https://s10.postimg.org/6nmry3rux/faces2.png" width="800">
-<img src="https://s10.postimg.org/sgaw4hhw9/net.png" width="300">
-<img src="https://s10.postimg.org/3n1c3swax/encoder1.png" width="400">
-<img src="https://s10.postimg.org/lpuev0zvd/encoder2.png" width="500">
-<img src="https://s10.postimg.org/64d3b3y7t/variance.png" width="400">
-<img src="https://s10.postimg.org/fc5brrfjt/decoder.png" width="700">
-<img src="https://s10.postimg.org/dkccwvjc9/loss.png" width="600">
-<img src="https://s10.postimg.org/bfrzvtckp/optimizer.png" width="400">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/faces2.png" width="800">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/net.png" width="300">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/encoder1.png" width="400">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/encoder2.png" width="500">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/variance.png" width="400">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/decoder.png" width="700">
+<img src="https://github.com/WojciechMormul/vae/blob/master/imgs/loss.png" width="600">
 
 ## Usage
 Prepare folder with images of fixed size.
